@@ -24,7 +24,7 @@ My overall goals were:
 5. try and keep things incremental by creating folders to indicate thought processes and progress.
 6. Comment where necessary.
 
-Those goals are pretty much taken care of in the folders first to fifth.
+Those goals are pretty much taken care of in the folders first to fifth; though I need to do some thorough testing on all of the instructions.
 
 I then looked at adding other functionality
 
