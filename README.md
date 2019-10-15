@@ -8,7 +8,7 @@ all I ask is that you credit me somewhere as the root source.
 
 The intention of the project is simply that I wanted to write a simple cli based 6502/6510 emulator in C,
 mostly to show my children how a CPU works at Hex/binary level.  I will look at putting a Youtube series together
-for this project at some point, to outline the learning and implementaiton processes I used in writing the programs.
+for this project at some point, to outline the learning and implementation processes I used in writing the programs.
 
 Each folder first, second and so on is an incremental step.  The comments in the files show what is new, so therefore
 comments are not accumulative, in that the comments held in the first files, are not necessarily in the second set and so
