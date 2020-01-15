@@ -28,8 +28,10 @@ Those goals are pretty much taken care of in the folders first to fifth; though 
 
 I then looked at adding other functionality
 
-1. Assembler/disassembler for mnemonics
-2. Some form of I/O; screen, serial emulation etc.
-3. Code structure for the variables, memory layout etc; as I haven't used structures much.
+1. Assembler/disassembler for mnemonics - this is completed as of January 2020
+2. Started adding structures and such, to make things neater.
+
+3. Some form of I/O; screen, serial emulation etc.
+
 
 This is what I am on with now.
