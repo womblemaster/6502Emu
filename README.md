@@ -23,15 +23,12 @@ My overall goals were:
 4. Don't worry about instruction timings to begin with.
 5. try and keep things incremental by creating folders to indicate thought processes and progress.
 6. Comment where necessary.
+7. Line Assembler and Disassembler are now written and functional
+8. NCurses is being used to create a windowed terminal and a pseudo LCD screen for output.
+9. There is a keyboard handler written, further work needs doing on this.
 
-Those goals are pretty much taken care of in the folders first to fifth; though I need to do some thorough testing on all of the instructions.
+So, I have now started to write 6502 assembly routines to do stuff.  ADD and Subtract 32bit numbers.
 
-I then looked at adding other functionality
-
-1. Assembler/disassembler for mnemonics - this is completed as of January 2020
-2. Started adding structures and such, to make things neater.
-
-3. Some form of I/O; screen, serial emulation etc.
-
+I am going to do some other routines for various stuff, that way I can see what is needed and missing from the emulator.
 
 This is what I am on with now.
